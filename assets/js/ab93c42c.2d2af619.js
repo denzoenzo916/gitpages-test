@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgitpages_test=self.webpackChunkgitpages_test||[]).push([[2850],{2121:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/gitpages-test/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

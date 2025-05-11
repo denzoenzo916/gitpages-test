@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgitpages_test=self.webpackChunkgitpages_test||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/gitpages-test/blog","blogTitle":"Blog","authorsListPath":"/gitpages-test/blog/authors"}')}}]);
